@@ -5,8 +5,8 @@ This project creates a runnable jar file that can do some common advance functio
 This first version was built for CDH 4.  I will be making it work for CDH 3 shortly.
 
 ##Functionality
-###[Put](hadcom.utils/wiki/Put-in-detail)
-a collections of layered functionality for advance putting.  For details on how to use this functionality [click here](hadcom.utils/wiki/Put-in-detail) The user will be able to use all the following:
+###[Put](wiki/Put-in-detail)
+a collections of layered functionality for advance putting.  For details on how to use this functionality [click here](wiki/Put-in-detail) The user will be able to use all the following:
 
 
 Layer 1: Reading
